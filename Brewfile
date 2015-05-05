@@ -4,8 +4,26 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install alfred
+cask install appcleaner
+cask install atom
+cask install bathyscaphe
+cask install bettertouchtool
+cask install coteditor
 cask install dropbox
+cask install firefox
+cask install google-chrome
+cask install google-japanese-ime
+cask install iterm2
+cask install karabiner
 cask install mamp
+cask install omnifocus
+cask install onyx
+cask install sophos-anti-virus-home-edition
+cask install sublime-text
+cask install vivaldi
+cask install vlc
+cask install xtrafinder
 
 ## rcmdnk/file
 tap rcmdnk/file
