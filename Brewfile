@@ -54,6 +54,7 @@ install libffi
 install libpng
 install libtiff
 install libtool
+install mysql
 install openssl
 install pango
 install pixman
